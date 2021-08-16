@@ -1,1 +1,24 @@
-/* styles go here */
+fieldset {
+  margin-bottom: 20px;
+}
+
+.comment-area,
+.car-brand,
+.cats {
+  margin-bottom: 10px;
+}
+
+.personal-info input {
+  margin-bottom: 10px;
+}
+
+#terms-id,
+#rate-id {
+  margin-bottom: 0;
+}
+
+#email-id,
+#color-id,
+#bed-time-id {
+  margin-bottom: 10px;
+}
